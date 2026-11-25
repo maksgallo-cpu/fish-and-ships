@@ -1,4 +1,4 @@
-# Fish and Ships Tackle Shop – site vitrine (Deploy n°1)
+# Fish and Ships Tackle Shop – site vitrine (Deploy n°3)
 
 Site statique HTML/CSS/JS, prêt pour Netlify ou GitHub Pages.
 
@@ -11,7 +11,6 @@ Site statique HTML/CSS/JS, prêt pour Netlify ou GitHub Pages.
 - [ ] Domaine : remplacer `https://www.fishandships-menton.fr` partout (index, blog, sitemap.xml, robots.txt, llms.txt)
 - [ ] Horaires d'ouverture (section "Nous trouver") + ajouter `openingHoursSpecification` dans le JSON-LD
 - [ ] URL exacte de la page Facebook (actuellement un lien de recherche)
-- [ ] Liste des marques réellement distribuées (section "Marques")
 - [ ] Best-sellers : références réelles
 - [ ] Avis : remplacer par les textes exacts des avis Google (avec prénoms autorisés)
 - [ ] Mentions légales : forme juridique, SIRET, responsable de publication
